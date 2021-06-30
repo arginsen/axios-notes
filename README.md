@@ -20,7 +20,11 @@
       - [cancel/Cancel.js](#cancel/Cancel.js)
 - [参考](#)
 
-> 从上至下阅读即可，学习整个流程
+<br>
+
+> 从上至下阅读即可，学习整个流程。可以直接拉取当前代码本地调试。保姆级了。
+
+<br>
 
 # 调试
 
@@ -1179,4 +1183,5 @@ module.exports = Cancel;
 # 参考
 
 学习 axios 源码整体架构-若川 ：https://mp.weixin.qq.com/s/GNYpgHo97xml0NxT93dHxQ
+
 创建 axios 对象 ：https://www.cnblogs.com/hahazexia/p/9994209.html
